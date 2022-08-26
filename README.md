@@ -20,7 +20,8 @@ We used  logistic regression to predict whether the borrower will be a good  bor
 3. KS Statistic : 0.552
 
 
-![Screen Shot 2022-08-22 at 15 58 45](https://user-images.githubusercontent.com/106853320/185882297-32e802dc-4788-4c30-9055-3f71ab716665.png
+![Screen Shot 2022-08-26 at 07 54 41](https://user-images.githubusercontent.com/106853320/186793805-d4cbab5d-ba9a-4582-a53b-65534030d901.png)
+
 
 ## Feature Importance:
 1. Last Payment:5 Month
